@@ -58,5 +58,5 @@ My dissertation examines the adoption of universal free school meals in Arkansas
 ## 📬 Contact
 
 - 📧 joesundell@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/joesundell)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joe-sundell-uams/)
 - 🏫 [UAMS College of Public Health](https://publichealth.uams.edu)
