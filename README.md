@@ -3,13 +3,13 @@
 
 I'm a PhD candidate in Health Services Research at the University of Arkansas for Medical Sciences (UAMS), graduating Fall 2026/Spring 2027. My research sits at the intersection of food policy, child health, and healthcare utilization — using large administrative and survey datasets to understand how social and environmental factors shape health outcomes.
 
-Before returning to academia, I spent years as a working musician. Before that, physics. It's been a journey.
+Before returning to academia, I spent years as a working musician. Before that, physics.
 
 ---
 
 ## 🔬 Research Focus
 
-My dissertation examines the **adoption of universal free school meals in Arkansas** and its downstream effects on healthcare utilization. More broadly, I study how food security policy — school meals, infant formula access, food insecurity — affects physical and mental health outcomes across the lifespan.
+My dissertation examines the **adoption of universal free school meals in Arkansas** and its downstream effects on healthcare utilization and grade progression. More broadly, my PhD work has focused on how policy related to food security and resource access affects physical and mental health outcomes across the lifespan.
 
 ---
 
@@ -19,8 +19,8 @@ My dissertation examines the **adoption of universal free school meals in Arkans
 - DuBois D, **Sundell J**, Thomsen MR, Brown CC. [Impact of the 2022 Infant Formula Shortage on Self-Reported Rates of Anxiety and Depression: Evidence from the Household Pulse Survey.](https://doi.org/10.1097/JPN.0000000000000839) *Journal of Perinatal & Neonatal Nursing.* 2024;38(3):326–333.
 
 **Under Review**
-- **Sundell J** et al. Variation in Rates of ADHD Diagnoses Across Public Schools in Arkansas. *Journal of Attention Disorders.* *(under review)*
-- **Sundell J** et al. Food Insecurity and ADHD Diagnosis Among U.S. Children. *Academic Pediatrics.* *(under review)*
+- Ma X, Lawson GM, **Sundell J**, Martin BC, Sufian SMA, Thompson JW, Tilford JM, Thomsen MR. Variation in Rates of ADHD Diagnoses Across Public Schools in Arkansas. *Journal of Attention Disorders.* *(under review)*
+- Shukla A, **Sundell J**, Voladri D. Food Insecurity and ADHD Diagnosis Among U.S. Children. *Academic Pediatrics.* *(under review)*
 
 ---
 
@@ -57,6 +57,6 @@ My dissertation examines the **adoption of universal free school meals in Arkans
 
 ## 📬 Contact
 
-- 📧 [your email here]
-- 🔗 [LinkedIn](https://linkedin.com/in/joesundell) *(add your URL)*
+- 📧 joesundell@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/joesundell)
 - 🏫 [UAMS College of Public Health](https://publichealth.uams.edu)
