@@ -9,7 +9,7 @@ Before returning to academia, I spent years as a working musician. Before that, 
 
 ## 🔬 Research Focus
 
-My dissertation examines the **adoption of universal free school meals in Arkansas** and its downstream effects on healthcare utilization and grade progression. More broadly, my PhD work has focused on how policy related to food security and resource access affects physical and mental health outcomes across the lifespan.
+My dissertation examines the adoption of universal free school meals in Arkansas and its downstream effects on healthcare utilization and grade progression. More broadly, my PhD work has focused on how policy related to food security and resource scarcity access affects physical and mental health outcomes across the lifespan.
 
 ---
 
